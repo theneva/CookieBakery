@@ -42,5 +42,8 @@ namespace CookieBakery
                 Console.WriteLine("\t\t\t\t" + customer.Name + " received cookie #" + cookiesSold);
             }
         }
+
+        // Most useless class ever
+        class Cookie { }
     }
 }
