@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cookie.cs" />
     <Compile Include="CookieBakery.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
